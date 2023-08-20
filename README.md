@@ -1,5 +1,9 @@
 # My Scratch Path
 
+## github gist
+
+[source](https://gist.github.com/janvgils)
+
 ## SatNOGS IQ data.
 raw data recorded by a SatNOGS groundstation, files are 48000Hz, 16 bit complex.
 To convert the IQ files to WAV or use them in other software, here are some example commands:
